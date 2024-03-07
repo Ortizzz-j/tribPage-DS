@@ -1,0 +1,9 @@
+* {
+    background-color: lightslategray;
+}
+
+.life{
+    text-align: center;
+    border:  lightseagreen outset 4px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

@@ -7,3 +7,10 @@
     border:  lightseagreen outset 4px ;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.titles {
+    text-align: center;
+    font-size: smaller;
+    border: solid 2px lightskyblue ;
+    box-shadow:  2px 2px 5px lightblue;
+}

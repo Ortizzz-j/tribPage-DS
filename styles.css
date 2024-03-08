@@ -14,3 +14,21 @@
     border: solid 2px lightskyblue ;
     box-shadow:  2px 2px 5px lightblue;
 }
+
+#steveJobs{
+    text-align: center;
+    border: solid 1px black;
+}
+
+.SJpic{
+    clip-path: circle();
+    margin-top: 9px;
+}
+
+.SJquote{
+    margin: 5px;
+    font-size: smaller;
+    background-color: black;
+    color: whitesmoke;
+    padding: 3px;
+}
